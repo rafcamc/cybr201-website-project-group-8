@@ -130,7 +130,7 @@ nav ul a {
   padding: 2rem;
   border-radius: 8px;
   text-align: left;
-  border-left: 4px solid #b2223a;
+  border-left: 4px solid #e94560;
 }
 
 .research-item h3 {
@@ -230,7 +230,7 @@ nav ul a {
 }
 
 .contact-item h3 {
-  color: #b2223a;
+  color: #e94560;
   margin-bottom: 0.5rem;
 }
 
